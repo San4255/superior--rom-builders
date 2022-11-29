@@ -5,4 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_phoenix.mk
+    $(LOCAL_DIR)/superior_phoenix.mk
